@@ -1,0 +1,2 @@
+- changed player class slightly to only use its own board, and not the other player's board since we do not have access to that information
+- the above involved changing take shots slightly by changing the logic to incorporate the player's own board when playing with the server
